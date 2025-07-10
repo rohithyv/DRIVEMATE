@@ -3,7 +3,7 @@
 **DRIVEMATE** is a web-based application that helps users find nearby essential services such as hospitals, restaurants, fuel stations, hotels, and schools within a specified radius. The application utilizes the Geoapify Places API for location data and Leaflet.js for interactive map visualization.
 
 ## Live Demo
-[https://rohithyv.github.io/DRIVEMATE/](https://rohithyv.github.io/DRIVEMATE/)
+https://drivemate-lac.vercel.app/
 
 ## Features
 
